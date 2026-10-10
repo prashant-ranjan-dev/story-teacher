@@ -1,0 +1,8 @@
+{
+  "name": "Story Teacher",
+  "description": "An AI-powered platform that transforms school curriculum into personalized, interactive learning adventures for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
